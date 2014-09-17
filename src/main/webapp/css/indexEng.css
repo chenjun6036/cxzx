@@ -1,0 +1,18 @@
+* {padding:0; margin:0;}
+body {font:12px Verdana,Arial,宋体,sans-serif; color:#333; line-height:16px; background:#dee9f6 url(../images/body_bg.gif) repeat-x;}
+a {color:#1fabd3;text-decoration:none;}
+a:hover {color:#f60;text-decoration:none;}
+h3 {font:14px Verdana,Arial,宋体,sans-serif;}
+#wrapper {width:968px; background:#ffffff; padding:0; margin:0 auto}
+/*--顶部--*/
+.headertop {clear:both; margin:0 auto; width:960px; height:110px; background:#f1f6fc url(../images/newhead.jpg) no-repeat;}
+/*--中间--*/
+.mainbox {clear:both; margin:5px auto; width:960px;}
+.mainleft {float:left; width:190px; margin:0 5px 0 0;}
+.mainsp {border:#b6e6fb 1px solid; border-top:none; float:left; width:188px; margin:5px 0 0 0;}
+.mainbox h3 {clear:both; margin:0; font-weight:bold; color:#1fabd3; height:28px; background:#edf6ff url(../images/mainbox.gif) repeat-x;}
+.mainbox h3 span.boxhead {float:left; line-height:26px; margin-left:5px; margin-top:1px;}
+.mainbox h3 span.boxright {float:right; line-height:26px; margin-right:5px; margin-top:1px;}
+.mainsp {border:#b6e6fb 1px solid; border-top:none; float:left; width:188px; margin:5px 0 0 0;}
+.mainsp ul,.mainright ul,.mainsponsor ul { TEXT-ALIGN:left; padding:5px;}
+.mainbottom {clear:both; margin:5px auto; width:958px; height:78px; color:#333; background:url(../images/bottom_bg.gif); border:#b6e6fb 1px solid;}

@@ -1,0 +1,14 @@
+/*--中文左边菜单--*/
+#chmenu {width:160px; float:left; padding:0; margin:0 auto}
+#chmenu .dropdown {display:block; position:relative;}
+#chmenu .dropdown dt {width:146px; border:2px solid #b6e6fb; padding:8px 5px 8px 5px; text-align:center; cursor:pointer; font:16px Verdana,Arial,黑体,sans-serif; letter-spacing:4px; background:url(../images/menu.gif);line-height:18px; *line-height:18px;}
+#chmenu .dropdown .upperdd {border-bottom:none}
+#chmenu .dropdown dt:hover {background:url(../images/menu_hover.gif) right;}
+#chmenu .dropdown dt a, .dropdown dt a:active, .dropdown dt a:visited {display:block; color:#333; text-decoration:none;}
+#chmenu .dropdown dt a:hover {color:#000;}
+#chmenu .dropdown dd {position:absolute; top:0; overflow:hidden; width:160px; display:none; background:#fff; opacity:0}
+#chmenu .dropdown ul {width:156px; border:2px solid #b6e6fb; list-style:none}
+#chmenu .dropdown li {display:inline}
+#chmenu .dropdown ul li a {display:block; padding:5px; color:#333; text-align:center;text-decoration:none; background:#eaf0f2;}
+#chmenu .dropdown ul li a:hover {background:#d9e1e4; color:#000}
+#chmenu .dropdown .underline {border-bottom:1px solid #b6e6fb}
